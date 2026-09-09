@@ -68,11 +68,11 @@ NCreator（Novel Creator）是一套面向中文短篇、中篇小说的结构�
 ```text
 NovelCreator/
 ├─ codex/SKILL.md
-├─ codex/SKILL_v1.2.2.md
+├─ codex/SKILL_v1.2.3.md
 ├─ claude/SKILL.md
-├─ claude/SKILL_v1.2.2.md
+├─ claude/SKILL_v1.2.3.md
 ├─ dsh/SKILL.md
-├─ dsh/SKILL_v1.2.2.md
+├─ dsh/SKILL_v1.2.3.md
 ├─ README.md
 ├─ LICENSE
 └─ .gitignore
@@ -80,7 +80,7 @@ NovelCreator/
 
 ## 版本
 
-当前版本：`v1.2.2`
+当前版本：`v1.2.3`
 
 本版本新增带版本号文件名与文件内容、按影响尺度选择版本层级的规则，并保留完整首稿/浓缩稿、按提纲丰满、人物博弈、通篇修订、进度台账、跳步记录、创作建议和阶段/完稿字数统计机制。
 
